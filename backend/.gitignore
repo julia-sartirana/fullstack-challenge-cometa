@@ -1,0 +1,15 @@
+# ⚡ Ignorar archivos y carpetas de Python (backend)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*/migrations/*.pyc
+*/migrations/__pycache__/
+
+# ⚡ Ignorar entorno virtual si está en la raíz
+venv/
+env/
+
+# ⚡ Ignorar archivos de logs y bases de datos locales
+*.log
+*.sqlite3

@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     "rest_framework",
     "corsheaders",
     "beer_orders",
-    "bill_split",
     "nyt_books",
 ]
 

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { FaBeer, FaBook, FaMoneyBillWave } from "react-icons/fa";
+import { FaBeer, FaBook } from "react-icons/fa";
 
 const exercises = [
   {
@@ -13,15 +13,6 @@ const exercises = [
   },
   {
     id: 2,
-    name: "División de Cuentas",
-    description: "Divide la cuenta del bar entre amigos.",
-    href: "/bill-split",
-    icon: <FaMoneyBillWave className="text-green-500 text-6xl" />,
-    bgColor: "bg-green-500/20",
-    textColor: "text-green-300",
-  },
-  {
-    id: 3,
     name: "Libros NYT",
     description: "Explora los libros recomendados por el NYT.",
     href: "/nyt-books",
@@ -38,7 +29,7 @@ export default function HomePage() {
         Ejercicios Full Stack
       </h1>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         {exercises.map((exercise) => (
           <Link key={exercise.id} href={exercise.href} className="h-full">
             <div

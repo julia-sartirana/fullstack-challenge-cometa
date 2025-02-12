@@ -21,3 +21,13 @@ order = {
     "items": [],
     "rounds": [],
 }
+
+# Initial bill data
+bill = {
+    "total": 0,
+    "payments": {
+        "Alice": 0,
+        "Bob": 0,
+        "Charlie": 0,
+    },
+}
