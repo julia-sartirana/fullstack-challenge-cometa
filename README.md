@@ -1,5 +1,3 @@
-cat <<EOF > README.md
-
 # fullstack-challenge-cometa
 
 # 🍺 Beer Order System
@@ -26,46 +24,46 @@ A simplified beer ordering and bill-splitting system where three friends enter a
 
 #### 1️⃣ Clone this repository:
 
-\`\`\`bash
+```js
 git clone https://github.com/julia-sartirana/fullstack-challenge-cometa.git
 cd fullstack-challenge-cometa/backend
-\`\`\`
+```
 
 #### 2️⃣ Create and activate a virtual environment:
 
-\`\`\`bash
+```js
 python -m venv venv
 source venv/bin/activate # On macOS/Linux
 venv\Scripts\activate # On Windows
-\`\`\`
+```
 
 #### 3️⃣ Install dependencies:
 
-\`\`\`bash
+```js
 pip install -r requirements.txt
-\`\`\`
+```
 
 #### 4️⃣ Set up environment variables:
 
-\`\`\`bash
+```js
 export NYT_API_KEY="your-nyt-api-key"
-\`\`\`
+```
 
 #### 5️⃣ Run the Django server:
 
-\`\`\`bash
+```js
 python manage.py runserver
-\`\`\`
+```
 
 The API will be available at:  
-👉 \`http://127.0.0.1:8000/api/beer-orders/\`  
-👉 \`http://127.0.0.1:8000/api/nyt-books/\`
+👉 http://127.0.0.1:8000/api/beer-orders/  
+👉 http://127.0.0.1:8000/api/nyt-books/
 
 #### 6️⃣ Run tests (optional):
 
-\`\`\`bash
+```js
 python manage.py test
-\`\`\`
+```
 
 ---
 
@@ -73,24 +71,24 @@ python manage.py test
 
 #### 1️⃣ Navigate to the frontend directory:
 
-\`\`\`bash
+```js
 cd ../frontend
-\`\`\`
+```
 
 #### 2️⃣ Install dependencies:
 
-\`\`\`bash
+```js
 npm install
-\`\`\`
+```
 
 #### 3️⃣ Run the development server:
 
-\`\`\`bash
+```js
 npm run dev
-\`\`\`
+```
 
 The frontend will be available at:  
-👉 \`http://localhost:3000/\`
+👉 http://localhost:3000/
 
 ---
 
@@ -98,79 +96,79 @@ The frontend will be available at:
 
 ### 🔸 Get beer stock
 
-\`\`\`http
+```http
 GET /api/beer-orders/stock/
-\`\`\`
+```
 
 📌 Returns the available beer stock.
 
 ### 🔸 Get current order status
 
-\`\`\`http
+```http
 GET /api/beer-orders/order/
-\`\`\`
+```
 
 📌 Returns the current order details.
 
 ### 🔸 Place an order
 
-\`\`\`http
+```http
 POST /api/beer-orders/order/
-\`\`\`
+```
 
 📌 Adds a beer to the order if stock is available.
 
 **Example request body:**
 
-\`\`\`json
+```json
 {
-"items": [
-{
-"name": "Corona",
-"quantity": 2
+  "items": [
+    {
+      "name": "Corona",
+      "quantity": 2
+    }
+  ]
 }
-]
-}
-\`\`\`
+```
 
 ### 🔸 Get the current bill
 
-\`\`\`http
+```http
 GET /api/beer-orders/bill/
-\`\`\`
+```
 
 📌 Returns the current bill, including the total amount due and payments made by each friend.
 
 **Example response:**
 
-\`\`\`json
+```json
 {
-"total": 150,
-"remaining_total": 50,
-"payments": {
-"Alice": 50,
-"Bob": 50,
-"Charlie": 0
+  "total": 150,
+  "remaining_total": 50,
+  "payments": {
+    "Alice": 50,
+    "Bob": 50,
+    "Charlie": 0
+  }
 }
-}
-\`\`\`
+```
 
 ### 🔸 Pay the bill
 
-\`\`\`http
+```http
 POST /api/beer-orders/bill/pay/
-\`\`\`
+```
 
 📌 Allows a friend to pay either their share or a custom amount.
 
 **Example request body:**
 
-\`\`\`json
+```json
 {
-"friend": "Alice",
-"amount": 50
+  "friend": "Alice",
+  "amount": 50
 }
-\`\`\`
+```
 
 ---
 
@@ -178,65 +176,64 @@ POST /api/beer-orders/bill/pay/
 
 ### 🔹 Get books by genre
 
-\`\`\`http
+```http
 GET /api/nyt-books/?genre=hardcover-fiction
-\`\`\`
+```
+
 📌 Returns a list of books from NYT Best Sellers.
 
 **Example response:**
-\`\`\`json
+
+```json
 [
-{
-"title": "ONYX STORM",
-"author": "Rebecca Yarros",
-"book_image": "https://...",
-"amazon_product_url": "https://www.amazon.com/dp/..."
-}
+  {
+    "title": "ONYX STORM",
+    "author": "Rebecca Yarros",
+    "book_image": "https://...",
+    "amazon_product_url": "https://www.amazon.com/dp/..."
+  }
 ]
-\`\`\`
+```
 
 ---
 
 ### 🔹 Trigger an update manually
 
-\`\`\`http
+```http
 POST /api/nyt-books/update/
-\`\`\`
+```
+
 📌 Triggers an **immediate background update** to fetch the latest books.
 
 **Example response:**
-\`\`\`json
+
+```json
 {
-"message": "Books update triggered"
+  "message": "Books update triggered"
 }
-\`\`\`
+```
 
 ---
 
 ### 🔹 Get available genres
 
-\`\`\`http
+```http
 GET /api/nyt-books/genres/
-\`\`\`
+```
+
 📌 Returns a list of available genres.
 
 **Example response:**
-\`\`\`json
-[
-"hardcover-fiction",
-"hardcover-nonfiction",
-"paperback-fiction",
-"paperback-nonfiction",
-"graphic-books-and-manga",
-"young-adult"
-]
-\`\`\`
+
+```json
+["hardcover-fiction", "hardcover-nonfiction"]
+```
 
 ---
 
 ## 📂 Project Structure
 
-\`\`\`plaintext
+```plaintext
 fullstack-challenge-cometa/
 │── backend/ # Django API
 │ ├── beer_orders/ # Main app
@@ -259,7 +256,7 @@ fullstack-challenge-cometa/
 │ ├── package.json # Frontend dependencies
 │
 │── README.md # Project documentation
-\`\`\`
+```
 
 ---
 
@@ -290,4 +287,3 @@ This project is for educational purposes and is not intended for commercial use.
 If you have any questions, feel free to reach out via GitHub issues.
 
 🚀 Happy coding! 🎉
-EOF
