@@ -11,7 +11,12 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 """
 
 from pathlib import Path
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
+
+NYT_API_KEY = os.getenv("NYT_API_KEY")
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -41,6 +46,7 @@ INSTALLED_APPS = [
     "corsheaders",
     "beer_orders",
     "nyt_books",
+    "background_task"
 ]
 
 MIDDLEWARE = [
@@ -76,6 +82,22 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'api_backend.wsgi.application'
 
+# Logs configuration 
+LOGGING = {
+    "version": 1,
+    "disable_existing_loggers": False,
+    "handlers": {
+        "console": {
+            "class": "logging.StreamHandler",
+        },
+    },
+    "loggers": {
+        "background_task": {
+            "handlers": ["console"],
+            "level": "DEBUG",
+        },
+    },
+}
 
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases

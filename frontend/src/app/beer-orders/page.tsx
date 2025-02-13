@@ -2,6 +2,8 @@
 
 import React, { useState } from "react";
 import { useBeerOrders } from "@/hooks/useBeerOrder";
+import { FaArrowLeftLong } from "react-icons/fa6";
+import { useRouter } from "next/navigation";
 import BeerList from "@/components/BeerList/BeerList";
 import OrderForm from "@/components/OrderForm";
 import OrderSummary from "@/components/OrderSummary";
@@ -12,6 +14,7 @@ export default function BeerOrdersPage() {
   const { beers, order, bill, loading, error, placeOrder, payBill } =
     useBeerOrders();
   const [paymentSuccess, setPaymentSuccess] = useState(false);
+  const router = useRouter();
 
   const handlePayment = async (friend: string, amount: number) => {
     const updatedBill = await payBill(friend, amount);
@@ -32,6 +35,13 @@ export default function BeerOrdersPage() {
 
   return (
     <div className="flex flex-col items-center gap-6 p-6 w-full">
+      <button
+        type="button"
+        onClick={() => router.back()}
+        className="absolute top-4 left-4 bg-transparent border-none cursor-pointer"
+      >
+        <FaArrowLeftLong size={24} />
+      </button>
       <h1 className="text-4xl font-bold text-white">Pedidos de Cerveza</h1>
 
       <div className="flex w-full gap-6">

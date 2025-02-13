@@ -1,0 +1,1798 @@
+{
+    "hardcover-fiction": [
+        {
+            "rank": 1,
+            "rank_last_week": 1,
+            "weeks_on_list": 3,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "1649377150",
+            "primary_isbn13": "9781649377159",
+            "publisher": "Red Tower",
+            "description": "The third book in the Empyrean series. As enemies gain traction, Violet Sorrengail goes beyond the Aretian wards in search of allies.",
+            "price": "0.00",
+            "title": "ONYX STORM",
+            "author": "Rebecca Yarros",
+            "contributor": "by Rebecca Yarros",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781649374189.jpg",
+            "book_image_width": 310,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "1649374186",
+                    "isbn13": "9781649374189"
+                },
+                {
+                    "isbn10": "1649377150",
+                    "isbn13": "9781649377159"
+                },
+                {
+                    "isbn10": "1705085113",
+                    "isbn13": "9781705085110"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9781649377159?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649377159"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FONYX%2BSTORM%2FRebecca%2BYarros%2F9781649377159"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9781649377159"
+                }
+            ],
+            "book_uri": "nyt://book/8aa689f7-187e-5292-bfd4-e7fc7c2c535f"
+        },
+        {
+            "rank": 2,
+            "rank_last_week": 2,
+            "weeks_on_list": 66,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "1649374178",
+            "primary_isbn13": "9781649374172",
+            "publisher": "Red Tower",
+            "description": "The second book in the Empyrean series. Violet Sorrengail\u2019s next round of training under the new vice commandant might require her to betray the man she loves.",
+            "price": "0.00",
+            "title": "IRON FLAME",
+            "author": "Rebecca Yarros",
+            "contributor": "by Rebecca Yarros",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781649374172.jpg",
+            "book_image_width": 309,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/1649374178?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "1649374178",
+                    "isbn13": "9781649374172"
+                },
+                {
+                    "isbn10": "1705085083",
+                    "isbn13": "9781705085080"
+                },
+                {
+                    "isbn10": "034943705X",
+                    "isbn13": "9780349437057"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/1649374178?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9781649374172?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649374172"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIRON%2BFLAME%2FRebecca%2BYarros%2F9781649374172"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9781649374172"
+                }
+            ],
+            "book_uri": "nyt://book/d3c570c9-3c3a-5c8b-a740-85ea5e92bfc9"
+        },
+        {
+            "rank": 3,
+            "rank_last_week": 0,
+            "weeks_on_list": 1,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "1250370795",
+            "primary_isbn13": "9781250370792",
+            "publisher": "St. Martin's",
+            "description": "The 60th book of the In Death series. Eve Dallas investigates the mysterious death of someone who was in a secret organization.",
+            "price": "0.00",
+            "title": "BONDED IN DEATH",
+            "author": "J.D. Robb",
+            "contributor": "by J.D. Robb",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250370792.jpg",
+            "book_image_width": 329,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/1250370795?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "1250370795",
+                    "isbn13": "9781250370792"
+                },
+                {
+                    "isbn10": "1250370809",
+                    "isbn13": "9781250370808"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/1250370795?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9781250370792?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250370792"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBONDED%2BIN%2BDEATH%2FJ.D.%2BRobb%2F9781250370792"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9781250370792"
+                }
+            ],
+            "book_uri": "nyt://book/443a46b0-412e-5821-809f-9e60018dfef4"
+        },
+        {
+            "rank": 4,
+            "rank_last_week": 4,
+            "weeks_on_list": 32,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "0385550367",
+            "primary_isbn13": "9780385550369",
+            "publisher": "Doubleday",
+            "description": "A reimagining of \u201cAdventures of Huckleberry Finn\u201d shines a different light on Mark Twain's classic, revealing new facets of the character of Jim.",
+            "price": "0.00",
+            "title": "JAMES",
+            "author": "Percival Everett",
+            "contributor": "by Percival Everett",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385550369.jpg",
+            "book_image_width": 333,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/0385550367?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "0385550367",
+                    "isbn13": "9780385550369"
+                },
+                {
+                    "isbn10": "0385550375",
+                    "isbn13": "9780385550376"
+                },
+                {
+                    "isbn10": "0593821254",
+                    "isbn13": "9780593821251"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/0385550367?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9780385550369?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385550369"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FJAMES%2FPercival%2BEverett%2F9780385550369"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9780385550369"
+                }
+            ],
+            "book_uri": "nyt://book/5788b098-426a-5f2c-a318-475692df69ee"
+        },
+        {
+            "rank": 5,
+            "rank_last_week": 5,
+            "weeks_on_list": 53,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "1250178630",
+            "primary_isbn13": "9781250178633",
+            "publisher": "St. Martin's",
+            "description": "In 1965, a nursing student follows her brother to serve during the Vietnam War and returns to a divided America.",
+            "price": "0.00",
+            "title": "THE WOMEN",
+            "author": "Kristin Hannah",
+            "contributor": "by Kristin Hannah",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250178633.jpg",
+            "book_image_width": 333,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/1250178630?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "1250178630",
+                    "isbn13": "9781250178633"
+                },
+                {
+                    "isbn10": "1250178657",
+                    "isbn13": "9781250178657"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/1250178630?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9781250178633?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250178633"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWOMEN%2FKristin%2BHannah%2F9781250178633"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9781250178633"
+                }
+            ],
+            "book_uri": "nyt://book/9ce735af-71cf-5ff3-a367-43ee07e3fdd7"
+        },
+        {
+            "rank": 6,
+            "rank_last_week": 0,
+            "weeks_on_list": 1,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "1250890438",
+            "primary_isbn13": "9781250890436",
+            "publisher": "Tor",
+            "description": "In 1995, a hapless journalist must protect a girl from forces that seek to control her.",
+            "price": "0.00",
+            "title": "THE BONES BENEATH MY SKIN",
+            "author": "TJ Klune",
+            "contributor": "by TJ Klune",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250890436.jpg",
+            "book_image_width": 324,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/1250890438?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "1250890438",
+                    "isbn13": "9781250890436"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/1250890438?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9781250890436?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250890436"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBONES%2BBENEATH%2BMY%2BSKIN%2FTJ%2BKlune%2F9781250890436"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9781250890436"
+                }
+            ],
+            "book_uri": "nyt://book/ad340d73-b3cc-5d39-a777-78d0d8b0bf3b"
+        },
+        {
+            "rank": 7,
+            "rank_last_week": 7,
+            "weeks_on_list": 15,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "1250899575",
+            "primary_isbn13": "9781250899576",
+            "publisher": "Holt",
+            "description": "A woman who is down on her luck forms an unexpected bond with the bride at a wedding in Rhode Island.",
+            "price": "0.00",
+            "title": "THE WEDDING PEOPLE",
+            "author": "Alison Espach",
+            "contributor": "by Alison Espach",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250899576.jpg",
+            "book_image_width": 329,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/1250899575?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "1250899575",
+                    "isbn13": "9781250899576"
+                },
+                {
+                    "isbn10": "1250899567",
+                    "isbn13": "9781250899569"
+                },
+                {
+                    "isbn10": "1420514725",
+                    "isbn13": "9781420514728"
+                },
+                {
+                    "isbn10": "1250899559",
+                    "isbn13": "9781250899552"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/1250899575?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9781250899576?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250899576"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWEDDING%2BPEOPLE%2FAlison%2BEspach%2F9781250899576"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9781250899576"
+                }
+            ],
+            "book_uri": "nyt://book/0935eb9b-9320-5ed9-93e8-32cef229779e"
+        },
+        {
+            "rank": 8,
+            "rank_last_week": 8,
+            "weeks_on_list": 30,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "0593418913",
+            "primary_isbn13": "9780593418918",
+            "publisher": "Riverhead",
+            "description": "When a 13-year-old girl disappears from an Adirondack summer camp in 1975, secrets kept by the Van Laar family emerge.",
+            "price": "0.00",
+            "title": "THE GOD OF THE WOODS",
+            "author": "Liz Moore",
+            "contributor": "by Liz Moore",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593418918.jpg",
+            "book_image_width": 331,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/0593418913?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "0593418913",
+                    "isbn13": "9780593418918"
+                },
+                {
+                    "isbn10": "059341893X",
+                    "isbn13": "9780593418932"
+                },
+                {
+                    "isbn10": "0593867793",
+                    "isbn13": "9780593867792"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/0593418913?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9780593418918?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593418918"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGOD%2BOF%2BTHE%2BWOODS%2FLiz%2BMoore%2F9780593418918"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9780593418918"
+                }
+            ],
+            "book_uri": "nyt://book/76d129f6-ab9c-591c-b25e-9a2758250c07"
+        },
+        {
+            "rank": 9,
+            "rank_last_week": 0,
+            "weeks_on_list": 1,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "None",
+            "primary_isbn13": "9780778387794",
+            "publisher": "Park Row",
+            "description": "In 1953, a woman goes to Paris to uncover the truth about the death of her friend during World War II.",
+            "price": "0.00",
+            "title": "LAST TWILIGHT IN PARIS",
+            "author": "Pam Jenoff",
+            "contributor": "by Pam Jenoff",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780778387794.jpg",
+            "book_image_width": 331,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/0778307980?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "0778307980",
+                    "isbn13": "9780778307983"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/0778307980?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9780778387794?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780778387794"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLAST%2BTWILIGHT%2BIN%2BPARIS%2FPam%2BJenoff%2F9780778387794"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9780778387794"
+                }
+            ],
+            "book_uri": "nyt://book/3e9885c8-af89-5a40-8138-5ee5154e15bc"
+        },
+        {
+            "rank": 10,
+            "rank_last_week": 0,
+            "weeks_on_list": 1,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "0593851269",
+            "primary_isbn13": "9780593851265",
+            "publisher": "Dutton",
+            "description": "Told from different points of view, the 50-year relationship between Abe and Jane is brought to life.",
+            "price": "0.00",
+            "title": "THIS IS A LOVE STORY",
+            "author": "Jessica Soffer",
+            "contributor": "by Jessica Soffer",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593851265.jpg",
+            "book_image_width": 328,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/0593851269?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "0593851269",
+                    "isbn13": "9780593851265"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/0593851269?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9780593851265?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593851265"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHIS%2BIS%2BA%2BLOVE%2BSTORY%2FJessica%2BSoffer%2F9780593851265"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9780593851265"
+                }
+            ],
+            "book_uri": "nyt://book/33a81c53-745f-5e8f-badb-0edf0cadc56c"
+        },
+        {
+            "rank": 11,
+            "rank_last_week": 0,
+            "weeks_on_list": 1,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "0593977157",
+            "primary_isbn13": "9780593977156",
+            "publisher": "Random House Worlds",
+            "description": "Collects the novels \u201cDragons of Autumn Twilight,\u201d \u201cDragons of Winter Night\u201d and \u201cDragons of Spring Dawning.\u201d",
+            "price": "0.00",
+            "title": "DRAGONLANCE CHRONICLES",
+            "author": "Margaret Weis and Tracy Hickman",
+            "contributor": "by Margaret Weis and Tracy Hickman",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593977156.jpg",
+            "book_image_width": 362,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/0593977157?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "0593977157",
+                    "isbn13": "9780593977156"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/0593977157?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9780593977156?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593977156"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDRAGONLANCE%2BCHRONICLES%2FMargaret%2BWeis%2Band%2BTracy%2BHickman%2F9780593977156"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9780593977156"
+                }
+            ],
+            "book_uri": "nyt://book/aab5e16d-be5f-5399-bc85-51a2f34e34b7"
+        },
+        {
+            "rank": 12,
+            "rank_last_week": 6,
+            "weeks_on_list": 83,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "1649374046",
+            "primary_isbn13": "9781649374042",
+            "publisher": "Red Tower",
+            "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+            "price": "0.00",
+            "title": "FOURTH WING",
+            "author": "Rebecca Yarros",
+            "contributor": "by Rebecca Yarros",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+            "book_image_width": 309,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "1649374046",
+                    "isbn13": "9781649374042"
+                },
+                {
+                    "isbn10": "1649374089",
+                    "isbn13": "9781649374080"
+                },
+                {
+                    "isbn10": "1705085059",
+                    "isbn13": "9781705085059"
+                },
+                {
+                    "isbn10": "1705085032",
+                    "isbn13": "9781705085035"
+                },
+                {
+                    "isbn10": "1649376162",
+                    "isbn13": "9781649376169"
+                },
+                {
+                    "isbn10": "1649377371",
+                    "isbn13": "9781649377371"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9781649374042?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649374042"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFOURTH%2BWING%2FRebecca%2BYarros%2F9781649374042"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9781649374042"
+                }
+            ],
+            "book_uri": "nyt://book/106c2cf0-7d20-51b1-bad4-91c3ebcd131a"
+        },
+        {
+            "rank": 13,
+            "rank_last_week": 3,
+            "weeks_on_list": 2,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "1250355508",
+            "primary_isbn13": "9781250355508",
+            "publisher": "Bramble",
+            "description": "The second book in the Nytefall series. Shifting alliances and impending doom add pressure to Astraea and Nyte\u2019s tenuous relationship.",
+            "price": "0.00",
+            "title": "THE NIGHT IS DEFYING",
+            "author": "Chloe C. Pe\u00f1aranda",
+            "contributor": "by Chloe C. Pe\u00f1aranda",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250355508.jpg",
+            "book_image_width": 347,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/1250355508?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "1250355508",
+                    "isbn13": "9781250355508"
+                },
+                {
+                    "isbn10": "1250355532",
+                    "isbn13": "9781250355539"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/1250355508?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9781250355508?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250355508"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BNIGHT%2BIS%2BDEFYING%2FChloe%2BC.%2BPe%25C3%25B1aranda%2F9781250355508"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9781250355508"
+                }
+            ],
+            "book_uri": "nyt://book/2df99cad-41ad-5a54-af96-bb220b097388"
+        },
+        {
+            "rank": 14,
+            "rank_last_week": 0,
+            "weeks_on_list": 1,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "0593497694",
+            "primary_isbn13": "9780593497692",
+            "publisher": "Ballantine",
+            "description": "The 40th book in the Alex Delaware series. Delaware and Sturgis try to get to the bottom of a series of murders in Hollywood.",
+            "price": "0.00",
+            "title": "OPEN SEASON",
+            "author": "Jonathan Kellerman",
+            "contributor": "by Jonathan Kellerman",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593497692.jpg",
+            "book_image_width": 329,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/0593497694?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "0593497694",
+                    "isbn13": "9780593497692"
+                },
+                {
+                    "isbn10": "0593497708",
+                    "isbn13": "9780593497708"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/0593497694?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9780593497692?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593497692"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOPEN%2BSEASON%2FJonathan%2BKellerman%2F9780593497692"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9780593497692"
+                }
+            ],
+            "book_uri": "nyt://book/dc7a2576-8db3-5cb7-8146-ec28572eef13"
+        },
+        {
+            "rank": 15,
+            "rank_last_week": 12,
+            "weeks_on_list": 63,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "0063204150",
+            "primary_isbn13": "9780063204157",
+            "publisher": "Ecco",
+            "description": "A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there.",
+            "price": "0.00",
+            "title": "REMARKABLY BRIGHT CREATURES",
+            "author": "Shel Van Pelt",
+            "contributor": "by Shelby Van Pelt",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063204157.jpg",
+            "book_image_width": 329,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/0063204150?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "0063204150",
+                    "isbn13": "9780063204157"
+                },
+                {
+                    "isbn10": "0063204185",
+                    "isbn13": "9780063204188"
+                },
+                {
+                    "isbn10": "0063204169",
+                    "isbn13": "9780063204164"
+                },
+                {
+                    "isbn10": "0063204177",
+                    "isbn13": "9780063204171"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/0063204150?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9780063204157?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063204157"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREMARKABLY%2BBRIGHT%2BCREATURES%2FShel%2BVan%2BPelt%2F9780063204157"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9780063204157"
+                }
+            ],
+            "book_uri": "nyt://book/206a5e83-12f4-5ea9-8e63-1da5470a6ef5"
+        }
+    ],
+    "hardcover-nonfiction": [
+        {
+            "rank": 1,
+            "rank_last_week": 0,
+            "weeks_on_list": 1,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "059380158X",
+            "primary_isbn13": "9780593801581",
+            "publisher": "Knopf",
+            "description": "The philanthropist and co-founder of Microsoft describes events from his childhood and discovery of computers.",
+            "price": "0.00",
+            "title": "SOURCE CODE",
+            "author": "Bill Gates",
+            "contributor": "by Bill Gates",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593801581.jpg",
+            "book_image_width": 329,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/059380158X?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "059380158X",
+                    "isbn13": "9780593801581"
+                },
+                {
+                    "isbn10": "0593801598",
+                    "isbn13": "9780593801598"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/059380158X?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9780593801581?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593801581"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSOURCE%2BCODE%2FBill%2BGates%2F9780593801581"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9780593801581"
+                }
+            ],
+            "book_uri": "nyt://book/f98c0a48-618c-5c5b-b36d-1194313f3a14"
+        },
+        {
+            "rank": 2,
+            "rank_last_week": 2,
+            "weeks_on_list": 46,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "0593655036",
+            "primary_isbn13": "9780593655030",
+            "publisher": "Penguin Press",
+            "description": "A co-author of \u201cThe Coddling of the American Mind\u201d looks at the mental health impacts that a phone-based life has on children.",
+            "price": "0.00",
+            "title": "THE ANXIOUS GENERATION",
+            "author": "Jonathan Haidt",
+            "contributor": "by Jonathan Haidt",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593655030.jpg",
+            "book_image_width": 329,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/0593655036?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "0593655036",
+                    "isbn13": "9780593655030"
+                },
+                {
+                    "isbn10": "0593655044",
+                    "isbn13": "9780593655047"
+                },
+                {
+                    "isbn10": "0593829093",
+                    "isbn13": "9780593829097"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/0593655036?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9780593655030?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593655030"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BANXIOUS%2BGENERATION%2FJonathan%2BHaidt%2F9780593655030"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9780593655030"
+                }
+            ],
+            "book_uri": "nyt://book/7557cf43-7888-5c15-8206-d3541cccd89b"
+        },
+        {
+            "rank": 3,
+            "rank_last_week": 0,
+            "weeks_on_list": 1,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "1641716436",
+            "primary_isbn13": "9781641716437",
+            "publisher": "Avalon Travel",
+            "description": "The travel writer and TV host recounts his journey from Istanbul to Kathmandu in the 1970s.",
+            "price": "0.00",
+            "title": "ON THE HIPPIE TRAIL",
+            "author": "Rick Steves",
+            "contributor": "by Rick Steves",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781641716437.jpg",
+            "book_image_width": 324,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/1641716436?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "1641716436",
+                    "isbn13": "9781641716437"
+                },
+                {
+                    "isbn10": "1641716444",
+                    "isbn13": "9781641716444"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/1641716436?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9781641716437?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781641716437"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FON%2BTHE%2BHIPPIE%2BTRAIL%2FRick%2BSteves%2F9781641716437"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9781641716437"
+                }
+            ],
+            "book_uri": "nyt://book/05c8fcae-196f-5e66-9c99-2209eb44c6da"
+        },
+        {
+            "rank": 4,
+            "rank_last_week": 1,
+            "weeks_on_list": 2,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "0593653114",
+            "primary_isbn13": "9780593653111",
+            "publisher": "Penguin Press",
+            "description": "The MSNBC host considers the ways in which attention capitalism affects politics and society.",
+            "price": "0.00",
+            "title": "THE SIRENS' CALL",
+            "author": "Chris Hayes",
+            "contributor": "by Chris Hayes",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593653111.jpg",
+            "book_image_width": 331,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/0593653114?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "0593653114",
+                    "isbn13": "9780593653111"
+                },
+                {
+                    "isbn10": "0593653122",
+                    "isbn13": "9780593653128"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/0593653114?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9780593653111?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593653111"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSIRENS%2527%2BCALL%2FChris%2BHayes%2F9780593653111"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9780593653111"
+                }
+            ],
+            "book_uri": "nyt://book/ac23f430-1a80-568b-b32c-74a920f59cf7"
+        },
+        {
+            "rank": 5,
+            "rank_last_week": 0,
+            "weeks_on_list": 1,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "059365398X",
+            "primary_isbn13": "9780593653982",
+            "publisher": "Viking",
+            "description": "Three years after the sudden death of her partner, the Pulitzer Prize-winning author spent time on a remote island to grieve his loss.",
+            "price": "0.00",
+            "title": "MEMORIAL DAYS",
+            "author": "Geraldine Brooks",
+            "contributor": "by Geraldine Brooks",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593653982.jpg",
+            "book_image_width": 331,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/059365398X?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "",
+                    "isbn13": ""
+                },
+                {
+                    "isbn10": "059365398X",
+                    "isbn13": "9780593653982"
+                },
+                {
+                    "isbn10": "0593653998",
+                    "isbn13": "9780593653999"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/059365398X?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9780593653982?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593653982"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMEMORIAL%2BDAYS%2FGeraldine%2BBrooks%2F9780593653982"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9780593653982"
+                }
+            ],
+            "book_uri": "nyt://book/8855eb2f-0405-583c-9e7d-93ee83bd715c"
+        },
+        {
+            "rank": 6,
+            "rank_last_week": 4,
+            "weeks_on_list": 12,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "1668072246",
+            "primary_isbn13": "9781668072240",
+            "publisher": "Scribner",
+            "description": "The author of \u201cBraiding Sweetgrass\u201d illuminates how the gift economy in the natural world works and draws lessons for our economy; with illustrations by John Burgoyne.",
+            "price": "0.00",
+            "title": "THE SERVICEBERRY",
+            "author": "Robin Wall Kimmerer",
+            "contributor": "by Robin Wall Kimmerer",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781668072240.jpg",
+            "book_image_width": 356,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/1668072246?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "1668072246",
+                    "isbn13": "9781668072240"
+                },
+                {
+                    "isbn10": "1668072254",
+                    "isbn13": "9781668072257"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/1668072246?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9781668072240?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668072240"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSERVICEBERRY%2FRobin%2BWall%2BKimmerer%2F9781668072240"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9781668072240"
+                }
+            ],
+            "book_uri": "nyt://book/546eae3e-3927-5811-8afb-976b6a5478d0"
+        },
+        {
+            "rank": 7,
+            "rank_last_week": 0,
+            "weeks_on_list": 1,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "1668064219",
+            "primary_isbn13": "9781668064214",
+            "publisher": "Gallery",
+            "description": "In a collection of essays, the Peabody Award- and James Beard Award-winning chef and TV host chronicles his career.",
+            "price": "0.00",
+            "title": "FOOD FOR THOUGHT",
+            "author": "Alton Brown",
+            "contributor": "by Alton Brown",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781668064214.jpg",
+            "book_image_width": 324,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/1668064219?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "1668064219",
+                    "isbn13": "9781668064214"
+                },
+                {
+                    "isbn10": "1668064235",
+                    "isbn13": "9781668064238"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/1668064219?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9781668064214?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668064214"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFOOD%2BFOR%2BTHOUGHT%2FAlton%2BBrown%2F9781668064214"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9781668064214"
+                }
+            ],
+            "book_uri": "nyt://book/8db4a40c-df41-5dcb-bf66-961da6d9302d"
+        },
+        {
+            "rank": 8,
+            "rank_last_week": 3,
+            "weeks_on_list": 18,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "1510782699",
+            "primary_isbn13": "9781510782693",
+            "publisher": "Skyhorse",
+            "description": "The first lady describes her work as a fashion model, marriage to Donald Trump and time in the White House.",
+            "price": "0.00",
+            "title": "MELANIA",
+            "author": "Melania Trump",
+            "contributor": "by Melania Trump",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781510782693.jpg",
+            "book_image_width": 333,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/1510782699?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "1510782699",
+                    "isbn13": "9781510782693"
+                },
+                {
+                    "isbn10": "1510782702",
+                    "isbn13": "9781510782709"
+                },
+                {
+                    "isbn10": "1510782729",
+                    "isbn13": "9781510782723"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/1510782699?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9781510782693?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781510782693"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMELANIA%2FMelania%2BTrump%2F9781510782693"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9781510782693"
+                }
+            ],
+            "book_uri": "nyt://book/7480d616-2614-5801-b1a8-f4019a372d6b"
+        },
+        {
+            "rank": 9,
+            "rank_last_week": 6,
+            "weeks_on_list": 88,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "0593236599",
+            "primary_isbn13": "9780593236598",
+            "publisher": "Harmony",
+            "description": "A look at recent scientific research on aging and longevity.",
+            "price": "0.00",
+            "title": "OUTLIVE",
+            "author": "Peter Attia with Bill Gifford",
+            "contributor": "by Peter Attia with Bill Gifford",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+            "book_image_width": 385,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/0593236599?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "0593236599",
+                    "isbn13": "9780593236598"
+                },
+                {
+                    "isbn10": "0593236602",
+                    "isbn13": "9780593236604"
+                },
+                {
+                    "isbn10": "0593664442",
+                    "isbn13": "9780593664445"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/0593236599?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9780593236598?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593236598"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOUTLIVE%2FPeter%2BAttia%2Bwith%2BBill%2BGifford%2F9780593236598"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9780593236598"
+                }
+            ],
+            "book_uri": "nyt://book/69f6e624-4f30-59d6-8103-816d17ae5ec1"
+        },
+        {
+            "rank": 10,
+            "rank_last_week": 11,
+            "weeks_on_list": 2,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "0593803892",
+            "primary_isbn13": "9780593803899",
+            "publisher": "Knopf",
+            "description": "The editor at large of Jewish Currents and a contributing opinion writer at The New York Times evaluates potential narratives following the war in Gaza.",
+            "price": "0.00",
+            "title": "BEING JEWISH AFTER THE DESTRUCTION OF GAZA",
+            "author": "Peter Beinart",
+            "contributor": "by Peter Beinart",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593803899.jpg",
+            "book_image_width": 331,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/0593803892?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "0593803892",
+                    "isbn13": "9780593803899"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/0593803892?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9780593803899?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593803899"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBEING%2BJEWISH%2BAFTER%2BTHE%2BDESTRUCTION%2BOF%2BGAZA%2FPeter%2BBeinart%2F9780593803899"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9780593803899"
+                }
+            ],
+            "book_uri": "nyt://book/abe45f35-be55-5150-929f-a664d87b542f"
+        },
+        {
+            "rank": 11,
+            "rank_last_week": 14,
+            "weeks_on_list": 17,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "0385550448",
+            "primary_isbn13": "9780385550444",
+            "publisher": "Doubleday",
+            "description": "Our criminal justice system viewed through the struggles of 10 wrongfully convicted people to achieve exoneration.",
+            "price": "0.00",
+            "title": "FRAMED",
+            "author": "John Grisham and Jim McCloskey",
+            "contributor": "by John Grisham and Jim McCloskey",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385550444.jpg",
+            "book_image_width": 331,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/0385550448?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "0385550448",
+                    "isbn13": "9780385550444"
+                },
+                {
+                    "isbn10": "0385550456",
+                    "isbn13": "9780385550451"
+                },
+                {
+                    "isbn10": "0593866800",
+                    "isbn13": "9780593866801"
+                },
+                {
+                    "isbn10": "0593866797",
+                    "isbn13": "9780593866795"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/0385550448?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9780385550444?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385550444"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFRAMED%2FJohn%2BGrisham%2Band%2BJim%2BMcCloskey%2F9780385550444"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9780385550444"
+                }
+            ],
+            "book_uri": "nyt://book/0df14289-eb2b-59e7-9e92-1b6a87275f23"
+        },
+        {
+            "rank": 12,
+            "rank_last_week": 7,
+            "weeks_on_list": 5,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "1668065398",
+            "primary_isbn13": "9781668065396",
+            "publisher": "Gallery",
+            "description": "Franke gives an account of abuse within her family, who gained a following with their YouTube channel \u201c8 Passengers.\u201d",
+            "price": "0.00",
+            "title": "THE HOUSE OF MY MOTHER",
+            "author": "Shari Franke",
+            "contributor": "by Shari Franke",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781668065396.jpg",
+            "book_image_width": 331,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/1668065398?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "1668065398",
+                    "isbn13": "9781668065396"
+                },
+                {
+                    "isbn10": "166806541X",
+                    "isbn13": "9781668065419"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/1668065398?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9781668065396?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668065396"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BHOUSE%2BOF%2BMY%2BMOTHER%2FShari%2BFranke%2F9781668065396"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9781668065396"
+                }
+            ],
+            "book_uri": "nyt://book/44710a63-300c-58b3-8c0a-eb11c9a614ca"
+        },
+        {
+            "rank": 13,
+            "rank_last_week": 8,
+            "weeks_on_list": 19,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "0593799895",
+            "primary_isbn13": "9780593799895",
+            "publisher": "Crown",
+            "description": "A memoir by the cookbook author and Food Network host known as the Barefoot Contessa.",
+            "price": "0.00",
+            "title": "BE READY WHEN THE LUCK HAPPENS",
+            "author": "Ina Garten",
+            "contributor": "by Ina Garten",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593799895.jpg",
+            "book_image_width": 333,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/0593799895?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "0593799895",
+                    "isbn13": "9780593799895"
+                },
+                {
+                    "isbn10": "0593799801",
+                    "isbn13": "9780593799802"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/0593799895?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9780593799895?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593799895"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBE%2BREADY%2BWHEN%2BTHE%2BLUCK%2BHAPPENS%2FIna%2BGarten%2F9780593799895"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9780593799895"
+                }
+            ],
+            "book_uri": "nyt://book/42b213ee-1e20-5b87-9f29-4a5cee85b0eb"
+        },
+        {
+            "rank": 14,
+            "rank_last_week": 13,
+            "weeks_on_list": 22,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "125034641X",
+            "primary_isbn13": "9781250346414",
+            "publisher": "St. Martin's",
+            "description": "The conservative commentator evaluates the legacies of American presidents.",
+            "price": "0.00",
+            "title": "CONFRONTING THE PRESIDENTS",
+            "author": "Bill O'Reilly and Martin Dugard",
+            "contributor": "by Bill O'Reilly and Martin Dugard",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250346414.jpg",
+            "book_image_width": 329,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/125034641X?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "125034641X",
+                    "isbn13": "9781250346414"
+                },
+                {
+                    "isbn10": "1250346436",
+                    "isbn13": "9781250346438"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/125034641X?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9781250346414?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250346414"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCONFRONTING%2BTHE%2BPRESIDENTS%2FBill%2BO%2527Reilly%2Band%2BMartin%2BDugard%2F9781250346414"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9781250346414"
+                }
+            ],
+            "book_uri": "nyt://book/16c77de6-cb08-5bd7-b0e1-a0cdbd3a141a"
+        },
+        {
+            "rank": 15,
+            "rank_last_week": 0,
+            "weeks_on_list": 31,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "1982181281",
+            "primary_isbn13": "9781982181284",
+            "publisher": "Simon & Schuster",
+            "description": "The author of \u201cThe Code Breaker\u201d traces Musk\u2019s life and summarizes his work on electric vehicles, private space exploration and artificial intelligence.",
+            "price": "0.00",
+            "title": "ELON MUSK",
+            "author": "Walter Isaacson",
+            "contributor": "by Walter Isaacson",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781982181284.jpg",
+            "book_image_width": 327,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/1982181281?tag=thenewyorktim-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "1982181281",
+                    "isbn13": "9781982181284"
+                },
+                {
+                    "isbn10": "1982181303",
+                    "isbn13": "9781982181307"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/1982181281?tag=thenewyorktim-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9781982181284?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982181284"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FELON%2BMUSK%2FWalter%2BIsaacson%2F9781982181284"
+                },
+                {
+                    "name": "Bookshop.org",
+                    "url": "https://bookshop.org/a/3546/9781982181284"
+                }
+            ],
+            "book_uri": "nyt://book/b6504701-7632-57ba-b6fe-8af0a840ba8e"
+        }
+    ]
+}
