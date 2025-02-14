@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .utils.data import stock, order
+from .utils.data import stock, order, bill
 from datetime import datetime
 
 class OrderItemSerializer(serializers.Serializer):
@@ -58,6 +58,8 @@ class OrderCreateSerializer(serializers.Serializer):
         order["taxes"] = order["subtotal"] * 0.16
         order["total"] = order["subtotal"] + order["taxes"] - order["discounts"]
 
+        bill["total"] = order["total"]
+
         return order
 
 class OrderDetailSerializer(serializers.Serializer):
@@ -70,5 +72,51 @@ class OrderDetailSerializer(serializers.Serializer):
     items = OrderItemSerializer(many=True)
     rounds = serializers.ListField(child=serializers.DictField())
 
+class BillSerializer(serializers.Serializer):
+    total = serializers.FloatField()
+    remaining_total = serializers.SerializerMethodField()
+    payments = serializers.DictField(child=serializers.FloatField())
+
+    def get_remaining_total(self, obj):
+        """Calculates how much is left to pay."""
+        total_paid = sum(bill["payments"].values())
+        return max(bill["total"] - total_paid, 0)
+
+
+class PayBillSerializer(serializers.Serializer):
+    friend = serializers.ChoiceField(choices=["Alice", "Bob", "Charlie"])
+    amount = serializers.FloatField(min_value=1)
+
+    def validate(self, data):
+        """Ensure payment does not exceed total bill"""
+        total_paid = sum(bill["payments"].values())
+        remaining_balance = round(bill["total"] - total_paid, 2)
+
+         # Check if payment exceeds remaining balance
+        if data["amount"] > remaining_balance:
+            if abs(data["amount"] - remaining_balance) < 0.01: 
+                data["amount"] = remaining_balance 
+            else:
+                raise serializers.ValidationError("Payment exceeds remaining balance.")
+
+        return data
+
+    def create(self, validated_data):
+        """Process the payment and reset the order when fully paid"""
+        bill["payments"][validated_data["friend"]] += validated_data["amount"]
+
+        total_paid = round(sum(bill["payments"].values()), 2)
+
+        # If fully paid, clear the order
+        if total_paid >= bill["total"]:
+            order["items"].clear()
+            order["rounds"].clear()
+            order["subtotal"] = 0
+            order["taxes"] = 0
+            order["total"] = 0
+            bill["total"] = 0
+            bill["payments"] = {friend: 0 for friend in bill["payments"]}
+
+        return bill
 
 

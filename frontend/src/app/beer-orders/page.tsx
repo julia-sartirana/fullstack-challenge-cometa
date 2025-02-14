@@ -1,76 +1,32 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
-import axios from "axios";
+import React, { useState } from "react";
+import { useBeerOrders } from "@/hooks/useBeerOrder";
+import { FaArrowLeftLong } from "react-icons/fa6";
+import { useRouter } from "next/navigation";
 import BeerList from "@/components/BeerList/BeerList";
-import OrderForm from "@/components/OrderForm/OrderForm";
-import OrderSummary from "@/components/OrderSummary/OrderSummary";
-
-interface Beer {
-  name: string;
-  price: number;
-  quantity: number;
-}
-
-interface Order {
-  created: string;
-  paid: boolean;
-  subtotal: number;
-  total: number;
-  taxes: number;
-  discounts: number;
-  items: (Beer & { quantity: number })[];
-  rounds: any[];
-}
+import OrderForm from "@/components/OrderForm";
+import OrderSummary from "@/components/OrderSummary";
+import PaymentForm from "@/components/PaymentForm";
+import CustomSnackbar from "@/components/CustomSnackbar";
 
 export default function BeerOrdersPage() {
-  const [beers, setBeers] = useState<Beer[]>([]);
-  const [order, setOrder] = useState<Order | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState("");
-  const [refreshOrder, setRefreshOrder] = useState(false);
+  const { beers, order, bill, loading, error, placeOrder, payBill } =
+    useBeerOrders();
+  const [paymentSuccess, setPaymentSuccess] = useState(false);
+  const router = useRouter();
 
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const [stockResponse, orderResponse] = await Promise.all([
-          axios.get("http://127.0.0.1:8000/api/beer-orders/stock/"),
-          axios.get("http://127.0.0.1:8000/api/beer-orders/order/"),
-        ]);
+  const handlePayment = async (friend: string, amount: number) => {
+    const updatedBill = await payBill(friend, amount);
 
-        setBeers(stockResponse.data.beers);
-        setOrder(orderResponse.data);
-      } catch (error) {
-        console.error("Error:", error);
-        setError("Error al cargar los datos");
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    fetchData();
-  }, [refreshOrder]);
-
-  const handleOrderSubmit = async (orderItem: Beer & { quantity: number }) => {
-    try {
-      const orderItemWithPrice = {
-        name: orderItem.name,
-        quantity: orderItem.quantity,
-        price_per_unit: orderItem.price,
-        total: orderItem.price * orderItem.quantity,
-      };
-
-      const response = await axios.post(
-        "http://127.0.0.1:8000/api/beer-orders/order/",
-        { items: [orderItemWithPrice] },
-        { headers: { "Content-Type": "application/json" } }
+    if (updatedBill) {
+      const totalPaid = Object.values(updatedBill.payments).reduce(
+        (acc, curr) => acc + curr,
+        0
       );
-
-      setOrder(response.data);
-      setRefreshOrder((prev) => !prev);
-    } catch (error) {
-      console.error("Error al enviar la orden:", error);
-      setError("No se pudo actualizar la orden");
+      if (totalPaid >= updatedBill.total) {
+        setPaymentSuccess(true);
+      }
     }
   };
 
@@ -78,11 +34,33 @@ export default function BeerOrdersPage() {
   if (error) return <p className="text-red-500">{error}</p>;
 
   return (
-    <div className="flex flex-col items-center gap-6 p-6">
+    <div className="flex flex-col items-center gap-6 p-6 w-full">
+      <button
+        type="button"
+        onClick={() => router.back()}
+        className="absolute top-4 left-4 bg-transparent border-none cursor-pointer"
+      >
+        <FaArrowLeftLong size={24} />
+      </button>
       <h1 className="text-4xl font-bold text-white">Pedidos de Cerveza</h1>
-      <BeerList beers={beers} />
-      <OrderForm onSubmit={handleOrderSubmit} beers={beers} />
-      {order && <OrderSummary order={order} />}
+
+      <div className="flex w-full gap-6">
+        <div className="flex-1 bg-gray-900 p-6 rounded-lg">
+          <BeerList beers={beers} />
+          <OrderForm onSubmit={placeOrder} beers={beers} bill={bill} />
+          {order && <OrderSummary order={order} />}
+        </div>
+        {bill && (
+          <div className="flex-1 bg-gray-900 p-6 rounded-lg flex flex-col items-center">
+            <PaymentForm bill={bill} onPay={handlePayment} />
+          </div>
+        )}
+      </div>
+      <CustomSnackbar
+        message="✅ ¡La cuenta ha sido pagada completamente!"
+        isVisible={paymentSuccess}
+        onClose={() => setPaymentSuccess(false)}
+      />
     </div>
   );
 }
